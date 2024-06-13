@@ -5,6 +5,8 @@ function App() {
   return <h1>Hello React!</h1>;
 }
 
+function Pizza() {}
+
 //react version 18
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
